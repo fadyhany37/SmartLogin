@@ -1,0 +1,48 @@
+body{
+    background-color: #24353F;
+}
+input{
+    width: 90% !important;
+    background-color: #24353F !important;
+    color: aliceblue !important;
+    box-shadow: none !important; 
+
+}
+
+input::placeholder{
+    color: whitesmoke !important;
+}
+input:focus{
+
+   border-color:#17A2B8 !important ;
+  
+}
+
+.parent{
+    z-index: 2;
+    width: 60%;
+    color: #24353F;
+    box-shadow: 5px 5px 30px 5px #000000;
+    
+}
+h1{
+    color: #17A2B8;
+}
+.login{
+    color: #17A2B8 !important;
+    border-color: #17A2B8;
+}
+p{
+    color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+  
+}
+.pts{ 
+    position: absolute;
+    top: 50%;
+
+
+}
